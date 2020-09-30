@@ -10,6 +10,7 @@ A responsive, magazine-like website layout with a grid item animation effect whe
 Avatars from [Random User Generator](https://randomuser.me/) and Greg Peverill-Conti's [1,000 faces project](http://www.flickr.com/photos/gregpc/), licensed under [Creative Commons BY-NC-SA 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en).
 
 Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
+It is a good project for begginners do download and fulfill your dreams.
 
 Read more here: [License](http://tympanus.net/codrops/licensing/)
 
