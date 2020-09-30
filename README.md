@@ -1,4 +1,4 @@
-Grid Item Animation Layout
+Grid  Animation 
 =========
 
 A responsive, magazine-like website layout with a grid item animation effect when opening the content
