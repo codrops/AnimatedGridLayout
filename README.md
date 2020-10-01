@@ -1,3 +1,4 @@
+An Amazing project developed which resembles just like page flip.
 Grid Item Animation Layout
 =========
 
