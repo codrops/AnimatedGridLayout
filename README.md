@@ -2,6 +2,7 @@ Grid Item Animation Layout
 =========
 
 A responsive, magazine-like website layout with a grid item animation effect when opening the content
+Amazing Animation Layout!
 
 [Article on Codrops](http://tympanus.net/codrops/?p=23872)
 
